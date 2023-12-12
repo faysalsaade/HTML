@@ -2,3 +2,8 @@ git add *
 git commit -m "create a new project"
 git push
 ===========
+ctrl /     tahfiz
+copy ctrl s    = save
+paste ctrl v   = paste  
+ctrl z
+ctrl y
