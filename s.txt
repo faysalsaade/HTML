@@ -1,9 +1,15 @@
-git add *
-git commit -m "create a new project"
+git add*
+git commit
 git push
-===========
 ctrl /     tahfiz
 copy ctrl s    = save
 paste ctrl v   = paste  
 ctrl z
 ctrl y
+<mark> = mark color
+<u> = under line
+(<strong>-<b>) = bold color 
+<em>-<i> = italique words
+<small> = smalleer words
+<del> = delected 
+<a href ="link"> words</a>=link =inline   
