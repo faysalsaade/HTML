@@ -22,6 +22,14 @@ ctrl y
 <ol reversed >= 3.2.1 =haks
 <ol start>="start from position"
 <ol type="A .a. i">
-<dl> = decription list == <dt>=description term
-                          <dd>=decription of the term   
-
+<dl> = decription list == balb <dt>= term
+                               <dd>=decription of the term
+<table=table    ==  (table head)=thead = awal el table/ <td>el kitabe awal shi ex name,note
+                    (table body)=tbody   
+                    (table foot)=tfoot
+                    <tr> =table row
+                    <td>=data table 
+                    <table border> = 7tout el table 
+                    <table cellapadding> = btkaber  el distanse 
+                    <caption>=title table
+                    <td colspan="" >tjma3 2 ma b2den
