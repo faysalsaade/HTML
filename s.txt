@@ -15,3 +15,13 @@ ctrl y
 <a href ="link"> words</a>=link =inline  nafs sater
 <a  href ="mail to bla bla ">  
 <img src="" alt="">=image /src = source \ alt = alternate text /
+<ul>=unorderd list=
+<li>              =haydi balb ul bt7me(list)       
+</ul>             =
+<ol>=ordered list 1.2.3
+<ol reversed >= 3.2.1 =haks
+<ol start>="start from position"
+<ol type="A .a. i">
+<dl> = decription list == <dt>=description term
+                          <dd>=decription of the term   
+
