@@ -15,23 +15,19 @@
         <p class="one"><b>faysal</b></p> 
         <p hidden>bla bla bla</p>
         <p><i>faysal</i></p>
-        <p><mark>mark </mark></p>
-        <p><u>under line</u></p>
-        <p><small>small</small></p>
+        <p><mark>faysak</mark></p>
+        <p><u>faysal</u></p>
+        <p><small>faysal</small></p>
         <p> faysal <del>saadeh</del> </p>
-        <p> <del>100$</del>  96$</p>
+        <p> <del>100$</del>  96$</p> 
         <a href="https://google.com" target="_blank" title="go to Google">Google</a> 
-        <a href="https://facebook.com" target="_blank" title="go to Facebook">facebook</a>
-        <a href="mailto:o@nn.sa">contact me </a>
-        <img src="https://emerald-autoparts.com/wp-content/uploads/2023/07/05-Remsa_Brake-Pads.jpg" alt=""width="300px">
-        <ul>
-            <li>htmk</li>
-            <li>css</li>
-            <li>js</li>
-        </u>
-      
-        
-
-    </body>
+        <a href="https://facebook.com" title="go to facebook">facebook</a>
+    <ul>
+    <li>htmk</li>
+    <li>css</li>
+    <li>js</li>
+    </ul>
+    
+     </body>
       
 </html> 

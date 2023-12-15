@@ -12,4 +12,6 @@ ctrl y
 <em>-<i> = italique words
 <small> = smalleer words
 <del> = delected 
-<a href ="link"> words</a>=link =inline   
+<a href ="link"> words</a>=link =inline  nafs sater
+<a  href ="mail to bla bla ">  
+<img src="" alt="">=image /src = source \ alt = alternate text /
