@@ -74,11 +74,18 @@
             <input id="mac1" type="checkbox" name="os" value="mac">
             <label for="mac1">mac</label>
         </div>
-        <label for="faysal"> faysalsaadeh:</label>
-        <select name="book" id="book">
-            <option value="1">book1</option>
-            <option value="2">book2</option>
-            <option value="3">book3</option>
+        <label for="books"> choose a books:</label>
+        <select name="book" id="book" multiple>
+            <optgroup label="romantic books">
+                <option value="1">book1</option>
+                <option value="2">book2</option>
+                <option value="3">book3</option>
+            </optgroup>
+            <optgroup label="police books">
+                <option value="4" selected>book4</option>
+                <option value="5">book5</option>
+                <option value="6">book6</option>
+            </optgroup>
         </select>
 
         <hr>
