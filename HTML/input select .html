@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>html</title>
+    <meta name="description" content="this my project" />
+</head>
+
+<body>
+    <div>
+        <h1> hello</h1>
+        <p>this my project</p>
+    </div>
+
+    <form action="faysal.php">
+        <input type="hidden" value="faysal">
+        <div>
+            <label> username</label>
+            <input type="text" required placeholder="username" name="user" readonly>
+        </div>
+        <br>
+        <div>
+            <label> subject</label>
+            <input type="text" required placeholder="username" name="sub" autofocus>
+        </div>
+        <br>
+        <div>
+            <label>password</label>
+            <input type="password" required name="password" minlength="10 " maxlength="20">
+        </div>
+        <br>
+        <div>
+            <label>email</label>
+            <input type="text" placeholder="write a valid email" value="faysalsaadeh@gmail.com" name="mail" disabled>
+        </div>
+
+        <br>
+        <label>range</label>
+        <input type="range" name="range" min="0" max="100" step="10" value="60">
+
+        <label>color</label>
+        <input type="color" name="color">
+        <br>
+        <br>
+        <div>
+            <label>number</label>
+            <input type="number" name="number" min="50" max="150" step="20">
+        </div>
+        <hr>
+        <div>
+            <input id="faysal" type="radio" name="os" value="windows" checked>
+            <label for="faysal">windows</label>
+        </div>
+        <div>
+            <input id="lin" type="radio" name="os" value="linux">
+            <label for="lin">linux</label>
+        </div>
+
+        <div>
+            <input id="mac" type="radio" name="os" value="mac">
+            <label for="mac">mac</label>
+        </div>
+        <hr>
+        <div>
+            <input id="faysal1" type="checkbox" name="os" value="windows" checked>
+            <label for="faysal1">windows</label>
+        </div>
+        <div>
+            <input id="lin1" type="checkbox" name="os" value="linux">
+            <label for="lin1">linux</label>
+        </div>
+
+        <div>
+            <input id="mac1" type="checkbox" name="os" value="mac">
+            <label for="mac1">mac</label>
+        </div>
+        <label for="books"> choose a books:</label>
+        <select name="book" id="book" multiple>
+            <optgroup label="romantic books">
+                <option value="1">book1</option>
+                <option value="2">book2</option>
+                <option value="3">book3</option>
+            </optgroup>
+            <optgroup label="police books">
+                <option value="4" selected>book4</option>
+                <option value="5">book5</option>
+                <option value="6">book6</option>
+            </optgroup>
+        </select>
+
+        <hr>
+        <input type="reset" value="reset">
+        <input type="submit" value="save">
+    </form>
+
+</body>
+
+</html>
