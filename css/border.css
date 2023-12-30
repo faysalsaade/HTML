@@ -1,0 +1,10 @@
+div {
+    background-color: red;
+    padding: 10px;
+    width: 70%;
+    margin: auto;
+    border-width: 10px;
+    border-color: black blue yellow red;
+    border-style: solid dashed double dotted;
+
+}
