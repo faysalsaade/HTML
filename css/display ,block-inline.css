@@ -1,8 +1,12 @@
-div {
+/* div {
     background-color: aqua;
     width: 300px;
     padding: 10px;
     margin: 30px;
     outline: 10px solid red;
     border: 50px solid blue;
+} */
+span {
+    background-color: beige;
+    /* display: inline-block; */
 }
