@@ -1,0 +1,12 @@
+div {
+    width: 150px;
+    height: 150px;
+    background-color: #ff0000;
+    margin: 20px auto;
+    overflow: auto;
+    /* overflow: hidden;
+    overflow: scroll;
+    overflow: visible;
+    overflow-y: hidden;
+    overflow-x: hidden; */
+}
