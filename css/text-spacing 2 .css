@@ -1,0 +1,7 @@
+div {
+    background-color: rgb(167, 164, 164);
+    word-spacing: 5px;
+    width: 300px;
+    /* white-space: nowrap; */
+    word-break: break-word;
+}
