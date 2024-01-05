@@ -1,0 +1,17 @@
+p {
+    cursor: move;
+}
+
+span {
+    cursor: grab;
+}
+
+
+
+button {
+    /* border: none; */
+    background: transparent;
+    color: yellow;
+    font-weight: bold;
+    cursor: pointer;
+}
