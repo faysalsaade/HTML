@@ -1,0 +1,33 @@
+ body {
+     min-height: 5000px;
+ }
+
+ div {
+     color: white;
+     width: 100px;
+     padding: 10px;
+ }
+
+ .one {
+     background-color: red;
+     position: fixed
+ }
+
+
+ .two {
+     background-color: green;
+
+ }
+
+
+
+ .faysal {
+     background-color: aqua;
+     width: 500px;
+     height: 300px;
+     position: relative;
+ }
+
+ .faysal2 {
+     background-color: brown;
+ }
