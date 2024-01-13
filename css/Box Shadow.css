@@ -1,0 +1,7 @@
+/* h-shadow h=horizontal / v-shadow  v=vertical / blur / spread / color / inset  */
+div {
+    padding: 20px;
+    background-color: #ff0000;
+    width: 300px;
+    box-shadow: 0px 0px 10px 5px #ff0000, 0px 0px 10px 10px #ff0, 0px 0px 10px 15px #00ff00, 0px 0px 10px 20px blue;
+}
