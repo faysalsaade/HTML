@@ -1,0 +1,10 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 20px auto;
+    border-radius: 50px;
+    outline: 5px dashed black;
+    /* border-top-left-radius: 50px 20;
+    border-bottom-right-radius: 50px; */
+}
