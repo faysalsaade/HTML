@@ -1,0 +1,10 @@
+.class {
+    /* -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -o-border-radius: 10px;
+    -ms-border-radius: 10px; */
+    border-radius: 10px;
+    /* [1]most of users is using modern browsers 
+    [2]vs code addon to add the prefix 
+    [3]task runner */
+}
