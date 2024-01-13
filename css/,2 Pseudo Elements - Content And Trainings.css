@@ -14,8 +14,7 @@
 }
 
 .one::before {
-    content: attr();
-    background-color: white;
+    content: "";
     width: 0px;
     height: 0px;
     position: absolute;
@@ -59,4 +58,27 @@
 hr {
     margin: 20px 0;
 
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    position: relative;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+
+ul li::before {
+    content: "";
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    left: -20px;
+    top: 50%;
+    margin-top: -10px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: transparent red transparent transparent;
 }
