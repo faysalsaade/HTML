@@ -1,0 +1,22 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.one {
+    background-color: #ff0000;
+    width: 200px;
+    height: 100px;
+    transition-duration: 0.4s;
+    transition-delay: 0.2s;
+    transition-property: all;
+}
+
+.one:hover {
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 280px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
