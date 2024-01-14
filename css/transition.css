@@ -10,13 +10,16 @@
     height: 100px;
     transition-duration: 0.4s;
     transition-delay: 0.2s;
-    transition-property: all;
+    transition-property: width;
+    transition-timing-function: ease;
 }
 
 .one:hover {
-    margin-left: 20px;
-    margin-top: 20px;
+    /* margin-left: 20px;
+    margin-top: 20px; */
     width: 280px;
-    color: rgb(255, 255, 255);
+    /* color: rgb(255, 255, 255);
     background-color: black;
+    border: 10px double white;
+    outline: 10px dashed red; */
 }
