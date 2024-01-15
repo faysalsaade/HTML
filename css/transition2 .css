@@ -5,19 +5,22 @@
 }
 
 .one {
-    background-color: #ff0000;
-    width: 200px;
-    height: 100px;
-    transition-duration: 1s;
-    transition-delay: 0.2s;
+    background-color: #00ff00;
+    width: 220px;
+    height: 150px;
+    transition-duration: 1.1s;
+    transition-delay: 0.3s;
     transition-property: width;
-    transition-timing-function: linear;
+    /* transition-timing-function: linear; */
+    /* transition-timing-function: ease-in; */
+    /* transition-timing-function: ease-out; */
+    transition-timing-function: ease-in-out;
 }
 
 .one:hover {
     /* margin-left: 20px;
     margin-top: 20px; */
-    width: 280px;
+    width: 300px;
     /* color: rgb(255, 255, 255);
     background-color: black;
     border: 10px double white;
