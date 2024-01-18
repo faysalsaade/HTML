@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+.flex {
+    /* overflow: hidden; */
+    background-color: #eee;
+    width: 600px;
+    padding: 20px;
+    margin: 20px auto;
+    display: flex;
+    flex-flow: column-reverse wrap;
+}
+
+.flex div {
+    background-color: red;
+    color: white;
+    /* float: left; */
+    width: 25%;
+    text-align: center;
+    padding: 20px;
+}
+
+.float {
+    /* overflow: hidden; */
+    background-color: #eee;
+    width: 600px;
+    padding: 20px;
+    margin: 20px auto;
+    display: flex;
+    flex-flow: row wrap-reverse;
+
+}
+
+.float div {
+    background-color: red;
+    color: white;
+    /* float: left; */
+    width: 25%;
+    text-align: center;
+    padding: 20px;
+
+}
