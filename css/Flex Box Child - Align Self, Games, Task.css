@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+.flex {
+    background-color: #eee;
+    width: 800px;
+    height: 300px;
+    padding: 20px;
+    margin: 20px auto;
+    display: flex;
+    align-items: flex-start;
+
+}
+
+.flex div {
+    background-color: red;
+    color: white;
+    width: 80px;
+    text-align: center;
+    padding: 20px;
+    margin-right: 5px;
+
+}
+
+.two {
+    align-self: flex-end;
+}
