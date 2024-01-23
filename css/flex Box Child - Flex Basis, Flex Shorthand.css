@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+.flex {
+    background-color: #eee;
+    width: 800px;
+    padding: 20px;
+    margin: 20px auto;
+    display: inline-flex;
+    flex-direction: row;
+}
+
+.flex div {
+    background-color: red;
+    color: white;
+    width: 100px;
+    text-align: center;
+    padding: 20px;
+    margin-right: 5px;
+
+
+
+}
+
+.two {
+    flex: 1 1 200px;
+}
+
+.faysal {
+    display: inline-block;
+}
