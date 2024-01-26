@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+img {
+    transition: 0.3s;
+    /* filter: blur(4px); */
+    /* filter:grayscale(100%) */
+    filter: invert(100%);
+}
+
+img:hover {
+    /* filter: blur(0%); */
+    /* filter:grayscale(100%) */
+    filter: invert(0%);
+}
